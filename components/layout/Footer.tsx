@@ -24,15 +24,14 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           {/* Col 1 & 2: Brand & Core Philosophy */}
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center space-x-3">
-              <div className="w-9 h-9 bg-emerald-600 rounded-sm flex items-center justify-center border border-emerald-500">
-                <Image 
-                  src="/logo.png" 
-                  alt="中巴 EduFuture" 
-                  width={28} 
-                  height={28}
-                  className="rounded-sm"
-                />
-              </div>
+              <Image 
+                src="/logo.png" 
+                alt="中巴 EduFuture logo" 
+                width={56} 
+                height={56}
+                className="h-11 w-11 sm:h-12 sm:w-12 object-contain flex-shrink-0"
+                priority
+              />
               <div>
                 <span className="text-white text-base font-black tracking-tight uppercase">中巴 EduFuture</span>
                 <span className="block text-[10px] text-emerald-400 font-bold uppercase tracking-wider">

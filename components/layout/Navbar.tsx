@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
+import Image from 'next/image';
 import { 
   Compass, 
   Sparkles, 
@@ -12,8 +13,7 @@ import {
   Menu, 
   X, 
   CheckCircle2, 
-  RotateCcw,
-  GraduationCap
+  RotateCcw
 } from 'lucide-react';
 import { StudentProfile } from '@/lib/types';
 
@@ -54,18 +54,23 @@ export const Navbar: React.FC<NavbarProps> = ({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 sm:h-18">
           
-          {/* Brand Logo & Title with Editorial Square Stamp */}
+          {/* Brand Logo & Title */}
           <div 
             id="brand-logo-container" 
             onClick={() => handleNavClick('landing')}
             className="flex items-center space-x-3 cursor-pointer group select-none"
           >
-            <div className="w-8 h-8 bg-slate-900 flex items-center justify-center rounded-sm text-white font-bold text-xs tracking-tight flex-shrink-0">
-              <span>中巴</span>
-            </div>
+            <Image
+              src="/logo.png"
+              alt="中巴 EduFuture logo"
+              width={52}
+              height={52}
+              className="h-10 w-10 sm:h-12 sm:w-12 object-contain flex-shrink-0"
+              priority
+            />
             <div className="flex items-baseline space-x-2">
-              <h1 className="text-xl font-black tracking-tighter uppercase text-slate-900">
-                EduFuture
+              <h1 className="text-xl font-black tracking-tighter text-slate-900">
+                中巴 EduFuture
               </h1>
               <span className="text-[9px] font-bold uppercase tracking-widest text-emerald-600 bg-emerald-50 px-1.5 py-0.5 rounded-sm border border-emerald-200 hidden sm:inline-block">
                 AI Platform
