@@ -1,0 +1,6 @@
+{
+  "name": "中巴 EduFuture",
+  "description": "AI-Powered Education & Future Skills Platform connecting students with personalized skill gap diagnosis, dynamic roadmaps, and career development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

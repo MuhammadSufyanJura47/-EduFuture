@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ai-engineer",
+    "title": "AI & Machine Learning Engineer",
+    "category": "Artificial Intelligence",
+    "tagline": "Build, optimize, and deploy modern neural models, LLM systems, and computer vision pipelines.",
+    "description": "AI Engineers bridge mathematical foundations and scalable software infrastructure to design intelligent systems, fine-tune models, and deploy production ML microservices.",
+    "marketDemand": "Very High",
+    "avgSalaryRange": "$65,000 - $140,000 / PKR 3.5M - 8M+ / RMB 25k-50k/mo",
+    "pkCnRelevance": "High demand in joint Pakistan-China AI research centers, smart port automation (Gwadar / CPEC), cross-border fintech, and international AI SaaS ventures.",
+    "requiredCoreSkills": [
+      { "name": "Python & NumPy", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "Data Structures & Algorithms", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Linear Algebra & Calculus", "benchmarkedLevel": 7, "importance": "Essential" },
+      { "name": "PyTorch / TensorFlow", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "LLMs, Prompt & RAG Systems", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Model Deployment & Docker", "benchmarkedLevel": 7, "importance": "Important" },
+      { "name": "Computer Vision / NLP", "benchmarkedLevel": 7, "importance": "Important" }
+    ],
+    "futureTrends": [
+      "Edge AI on RISC-V and ARM chips",
+      "Multimodal Agentic Workflows & Autonomous Tool Use",
+      "Model Quantization and Green Efficient AI Computing"
+    ],
+    "popularJobTitles": ["AI Engineer", "MLOps Engineer", "Applied AI Scientist", "Computer Vision Specialist"]
+  },
+  {
+    "id": "fullstack-developer",
+    "title": "Full-Stack Software Engineer",
+    "category": "Software Engineering",
+    "tagline": "Architect end-to-end cloud web applications with modern frontend and scalable backends.",
+    "description": "Full-Stack Engineers build performant, accessible client interfaces alongside secure, distributed backend APIs and database architectures.",
+    "marketDemand": "Very High",
+    "avgSalaryRange": "$50,000 - $115,000 / PKR 2.5M - 6M / RMB 20k-40k/mo",
+    "pkCnRelevance": "Major pillar of IT export industries in Pakistan and cross-border digital commerce platforms bridging South Asia and East Asia.",
+    "requiredCoreSkills": [
+      { "name": "TypeScript & Modern JS", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "React / Next.js / Vue", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "Node.js / Express / FastAPI", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Relational & NoSQL Databases", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "REST & GraphQL APIs", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Git & CI/CD Pipelines", "benchmarkedLevel": 7, "importance": "Important" },
+      { "name": "Cloud Deployment (Vercel/AWS)", "benchmarkedLevel": 7, "importance": "Important" }
+    ],
+    "futureTrends": [
+      "AI-integrated Web Apps (Server Actions & Streaming)",
+      "Serverless and Edge Distributed Computations",
+      "High-Performance WebAssembly (Wasm) modules"
+    ],
+    "popularJobTitles": ["Full-Stack Engineer", "Frontend Architect", "Backend Systems Engineer", "Web Applications Lead"]
+  },
+  {
+    "id": "data-scientist",
+    "title": "Data Scientist & Analytics Architect",
+    "category": "Data Science & Analytics",
+    "tagline": "Turn vast unstructured data into predictive intelligence and strategic insights.",
+    "description": "Data Scientists extract actionable statistical patterns, construct predictive models, and guide data-driven decisions across industrial and economic domains.",
+    "marketDemand": "High",
+    "avgSalaryRange": "$60,000 - $130,000 / PKR 3M - 7M / RMB 22k-45k/mo",
+    "pkCnRelevance": "Critical for CPEC logistics optimization, financial fraud detection, public health analytics, and bilateral trade forecasting.",
+    "requiredCoreSkills": [
+      { "name": "Python / R & Pandas", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "SQL & Data Warehousing", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "Applied Statistics & Probability", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Supervised & Unsupervised ML", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Data Visualization (Tableau/D3)", "benchmarkedLevel": 7, "importance": "Important" },
+      { "name": "Big Data (Spark / Hadoop)", "benchmarkedLevel": 6, "importance": "Important" }
+    ],
+    "futureTrends": [
+      "Automated Feature Engineering with LLMs",
+      "Privacy-Preserving Federated Learning",
+      "Real-time Streaming Analytics"
+    ],
+    "popularJobTitles": ["Data Scientist", "Analytics Engineer", "Quantitative Analyst", "Business Intelligence Architect"]
+  },
+  {
+    "id": "cybersecurity-engineer",
+    "title": "Cybersecurity & InfoSec Specialist",
+    "category": "Information Security",
+    "tagline": "Defend critical digital infrastructure, cloud services, and enterprise data networks.",
+    "description": "Cybersecurity Engineers assess vulnerabilities, design zero-trust defensive perimeters, and investigate digital security threats in an interconnected world.",
+    "marketDemand": "Very High",
+    "avgSalaryRange": "$70,000 - $145,000 / PKR 3.5M - 8M / RMB 25k-48k/mo",
+    "pkCnRelevance": "National priority in Pakistan's digital sovereignty initiatives, telecommunication safeguards, and cross-border digital financial security.",
+    "requiredCoreSkills": [
+      { "name": "Computer Networks & Protocols", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "Linux Systems & Scripting", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Ethical Hacking & Penetration Testing", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Cryptography Foundations", "benchmarkedLevel": 7, "importance": "Essential" },
+      { "name": "Cloud Security (AWS/Azure)", "benchmarkedLevel": 7, "importance": "Important" },
+      { "name": "SIEM & Incident Response", "benchmarkedLevel": 7, "importance": "Important" }
+    ],
+    "futureTrends": [
+      "AI-driven Threat Detection & Automated Countermeasures",
+      "Zero Trust Architecture (ZTA)",
+      "Post-Quantum Cryptography Preparation"
+    ],
+    "popularJobTitles": ["Security Engineer", "Penetration Tester", "SOC Analyst", "Cloud Security Architect"]
+  },
+  {
+    "id": "cloud-devops-engineer",
+    "title": "Cloud & DevOps Infrastructure Engineer",
+    "category": "Cloud & Infrastructure",
+    "tagline": "Build automated, resilient cloud architectures with Kubernetes and CI/CD.",
+    "description": "DevOps and Cloud Engineers automate deployment lifecycles, manage container orchestration, and ensure 99.99% system reliability at global scale.",
+    "marketDemand": "Very High",
+    "avgSalaryRange": "$65,000 - $135,000 / PKR 3M - 7.5M / RMB 24k-46k/mo",
+    "pkCnRelevance": "Rapid adoption across telecommunications, cloud data center expansions, and transnational software hubs.",
+    "requiredCoreSkills": [
+      { "name": "Linux & Bash Scripting", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "Docker & Containerization", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "Kubernetes (K8s)", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "CI/CD (GitHub Actions / GitLab)", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Terraform & Infrastructure as Code", "benchmarkedLevel": 7, "importance": "Important" },
+      { "name": "Observability (Prometheus/Grafana)", "benchmarkedLevel": 7, "importance": "Important" }
+    ],
+    "futureTrends": [
+      "GitOps and Automated Infrastructure Healing",
+      "Multi-Cloud and Sovereign Cloud Management",
+      "Serverless Kubernetes clusters"
+    ],
+    "popularJobTitles": ["DevOps Engineer", "Site Reliability Engineer (SRE)", "Cloud Platform Architect", "Infrastructure Lead"]
+  },
+  {
+    "id": "embedded-iot-engineer",
+    "title": "Embedded Systems & IoT Engineer",
+    "category": "Hardware & Systems",
+    "tagline": "Program microcontrollers, robotic sensors, and edge AI hardware devices.",
+    "description": "Embedded Engineers write deterministic firmware for IoT hardware, smart energy grids, automotive electronics, and industrial robotic automation.",
+    "marketDemand": "High",
+    "avgSalaryRange": "$55,000 - $120,000 / PKR 2.5M - 6.5M / RMB 22k-45k/mo",
+    "pkCnRelevance": "Directly aligned with Pakistan-China industrial manufacturing cooperation, agricultural drone tech, and smart city infrastructure.",
+    "requiredCoreSkills": [
+      { "name": "C / Modern C++", "benchmarkedLevel": 9, "importance": "Essential" },
+      { "name": "Microcontrollers (STM32/ESP32)", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "RTOS (FreeRTOS / Zephyr)", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Hardware Interfaces (UART, I2C, SPI)", "benchmarkedLevel": 8, "importance": "Essential" },
+      { "name": "Edge AI Inference / TinyML", "benchmarkedLevel": 7, "importance": "Important" },
+      { "name": "PCB Basics & Circuit Debugging", "benchmarkedLevel": 6, "importance": "Important" }
+    ],
+    "futureTrends": [
+      "TinyML running LLM quantizations on microcontrollers",
+      "RISC-V Open Architecture proliferation",
+      "Industrial IoT Smart Grid integration"
+    ],
+    "popularJobTitles": ["Embedded Software Engineer", "Firmware Engineer", "IoT Systems Developer", "Robotics Control Engineer"]
+  }
+]

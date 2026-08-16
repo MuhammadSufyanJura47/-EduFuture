@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Fast.ai Practical Deep Learning for Coders",
+    "url": "https://course.fast.ai/",
+    "type": "Course",
+    "isFree": true,
+    "provider": "Fast.ai / Jeremy Howard"
+  },
+  {
+    "title": "MIT 6.006: Introduction to Algorithms",
+    "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+    "type": "Course",
+    "isFree": true,
+    "provider": "MIT OpenCourseWare"
+  },
+  {
+    "title": "Stanford CS229: Machine Learning Course Materials",
+    "url": "https://cs229.stanford.edu/",
+    "type": "Course",
+    "isFree": true,
+    "provider": "Stanford University"
+  },
+  {
+    "title": "roadmap.sh - Community Developer Roadmaps",
+    "url": "https://roadmap.sh/",
+    "type": "Interactive",
+    "isFree": true,
+    "provider": "roadmap.sh"
+  },
+  {
+    "title": "DeepLearning.AI: Generative AI & LLM Specializations",
+    "url": "https://www.deeplearning.ai/",
+    "type": "Course",
+    "isFree": true,
+    "provider": "Andrew Ng / DeepLearning.AI"
+  },
+  {
+    "title": "Full Stack Open 2024",
+    "url": "https://fullstackopen.com/en/",
+    "type": "Course",
+    "isFree": true,
+    "provider": "University of Helsinki"
+  },
+  {
+    "title": "Tsinghua University / MOOC.cn Open Tech Series",
+    "url": "https://www.icourse163.org/",
+    "type": "Course",
+    "isFree": true,
+    "provider": "Chinese University MOOC"
+  },
+  {
+    "title": "Docker Official Getting Started Guide & Labs",
+    "url": "https://docs.docker.com/get-started/",
+    "type": "Documentation",
+    "isFree": true,
+    "provider": "Docker Inc."
+  }
+]

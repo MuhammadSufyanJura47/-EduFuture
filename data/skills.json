@@ -1,0 +1,43 @@
+[
+  {
+    "category": "Core Computer Science",
+    "skills": [
+      { "name": "Python & NumPy", "description": "Syntax, memory model, standard library, vectorization and numerical computation." },
+      { "name": "TypeScript & Modern JS", "description": "Type systems, closures, async/await event loop, ESNext features, browser APIs." },
+      { "name": "C / Modern C++", "description": "Pointers, memory management, templates, standard template library, systems programming." },
+      { "name": "Data Structures & Algorithms", "description": "Arrays, trees, graphs, dynamic programming, complexity analysis (Big-O)." },
+      { "name": "Operating Systems & Linux", "description": "Process management, memory virtualization, POSIX shell, concurrency and IPC." },
+      { "name": "Computer Networks & Protocols", "description": "TCP/IP stack, HTTP/3, TLS encryption, sockets, DNS, and routing basics." }
+    ]
+  },
+  {
+    "category": "Artificial Intelligence & Data",
+    "skills": [
+      { "name": "Linear Algebra & Calculus", "description": "Matrix operations, eigenvalues, partial derivatives, gradient descent math." },
+      { "name": "Applied Statistics & Probability", "description": "Hypothesis testing, Bayesian distributions, statistical inference, data sampling." },
+      { "name": "Supervised & Unsupervised ML", "description": "Scikit-Learn, regressions, decision trees, clustering, dimensionality reduction." },
+      { "name": "PyTorch / TensorFlow", "description": "Tensors, autograd, custom neural network architectures, GPU acceleration." },
+      { "name": "LLMs, Prompt & RAG Systems", "description": "Vector embeddings, retrieval-augmented generation, prompt engineering, agentic tools." },
+      { "name": "Computer Vision / NLP", "description": "CNNs, Transformer architectures, image classification, sequence tokenization." }
+    ]
+  },
+  {
+    "category": "Web & Software Architecture",
+    "skills": [
+      { "name": "React / Next.js / Vue", "description": "Component lifecycles, server vs client components, state stores, SSR & routing." },
+      { "name": "Node.js / Express / FastAPI", "description": "Asynchronous microservices, middleware pipelines, request validation, authentication." },
+      { "name": "Relational & NoSQL Databases", "description": "PostgreSQL indexing, normalization, MongoDB, Redis caching, query optimization." },
+      { "name": "REST & GraphQL APIs", "description": "API schema design, pagination, idempotency, rate limiting, OpenAPI specifications." }
+    ]
+  },
+  {
+    "category": "DevOps, Security & Cloud",
+    "skills": [
+      { "name": "Docker & Containerization", "description": "Dockerfile optimization, multi-stage builds, container security, docker-compose." },
+      { "name": "Kubernetes (K8s)", "description": "Pods, deployments, services, ingress controllers, cluster scaling." },
+      { "name": "CI/CD (GitHub Actions / GitLab)", "description": "Automated linting, test suites, container publishing, zero-downtime deployment." },
+      { "name": "Ethical Hacking & Penetration Testing", "description": "OWASP Top 10, vulnerability scanning, network traffic analysis, exploitation prevention." },
+      { "name": "Cloud Security (AWS/Azure)", "description": "IAM policies, VPC peering, KMS encryption keys, security compliance audits." }
+    ]
+  }
+]
